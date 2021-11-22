@@ -132,7 +132,7 @@ Here's the solution's design:
 - The Database was deployed into a `Azure Database for PostgreSQL server` service. And it was seeded with 1000 `GitHub` users.
 ![Azure Database for PostgreSQL server](./images/database.png)
 
-- Using the `Dockerfile` the application was deployed into a `Container Instance` service. And can be seen here [http://python-test-project-api.eastus.azurecontainer.io:5000](http://python-test-project-api.eastus.azurecontainer.io:5000).
+- Using the `Dockerfile` the application was deployed into a `Container Instance` service. And can be seen here [http://python-test-project-api.eastus.azurecontainer.io:5000](http://python-test-project-api.eastus.azurecontainer.io:5000) **No Longer Available**.
 ![Container Instance](./images/application.png)
 
 
